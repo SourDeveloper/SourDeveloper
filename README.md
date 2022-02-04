@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Sour!</h1>
+<h1 align="center">Hello there, I'm Sour!</h1>
 
 <h2>I am a developer primarily in JavaScript, Python, HTMl, and CSS.</h1>
 
