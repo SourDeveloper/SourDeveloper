@@ -26,7 +26,7 @@ If you would like to collaborate on something, feel free to DM me on Discord, @S
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" style="vertical-     align:top; margin:4px">
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="![image](https://user-images.githubusercontent.com/79670011/152547331-e77b7995-0444-4e5d-9d32-24790ed9e430.png)" alt="MongoDB" height="40" style="vertical-     align:top; margin:4px">
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" alt="MongoDB" height="40" style="vertical-     align:top; margin:4px">
   </a>
   <a href="http://www.javascript.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Javascript" height="40" style="vertical-     align:top; margin:4px">
