@@ -11,7 +11,7 @@ If you would like to collaborate on something, feel free to DM me on Discord, @S
 ## Languages and Tools:
 <p align="left">
   <a href="http://www.javascript.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Javascript" height="40" style="vertical-     align:top; margin:4px">
+    <img src="![image](https://user-images.githubusercontent.com/79670011/152547380-8a26fff6-5bdd-43e0-8432-1950ba245fff.png)" alt="Javascript" height="40" style="vertical-     align:top; margin:4px">
   </a>
   <a href="http://www.https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
