@@ -26,12 +26,12 @@ If you would like to collaborate on something, feel free to DM me on Discord, @S
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" style="vertical-     align:top; margin:4px">
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" alt="MongoDB" height="40" style="vertical-     align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" style="vertical-     align:top; margin:4px">
   </a>
-  <a href="http://www.javascript.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Javascript" height="40" style="vertical-     align:top; margin:4px">
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" height="40" style="vertical-     align:top; margin:4px">
   </a>
-  <a href="http://www.javascript.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Javascript" height="40" style="vertical-     align:top; margin:4px">
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="Arduino" height="40" style="vertical-     align:top; margin:4px">
   </a>
 </p>
