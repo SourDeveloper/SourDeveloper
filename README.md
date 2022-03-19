@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!</h1>
 
-<h2>I am a developer primarily in JavaScript, Python, HTMl, and CSS.</h1>
+<h2>I am a developer primarily in JavaScript, Python, HTML, and CSS.</h1>
 
 I use the Discord API a lot, and enjoy working with APIs in general. I have used I don't normally post public repositories, so that is the reason for having so few, but I am trying to get better at posting more public projects.
 
