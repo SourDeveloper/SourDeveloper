@@ -6,8 +6,6 @@ I use the Discord API a lot, and enjoy working with APIs in general. I have used
 
 If you would like to collaborate on something, feel free to DM me on Twitter.
 
-*My website (sourdev.com) is currently out of date, if you have decided to visit it recently. I am currently working to update it and make it loom a lot nicer!*
-
 ## Languages and Tools:
 <p align="left">
   <a href="http://www.javascript.com" target="_blank"> 
