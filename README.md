@@ -4,7 +4,7 @@
 
 I use the Discord API a lot, and enjoy working with APIs in general. I usually I don't normally post public repositories, so that is the reason for having so few, but I am trying to get better at posting more public projects.
 
-If you would like to collaborate on something, feel free to DM me on Twitter.
+If you would like to work on something, feel free to DM me on Discord `Sour#0001`.
 
 ## Languages and Tools:
 <p align="left">
